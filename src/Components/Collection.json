@@ -1,0 +1,86 @@
+ 
+[
+    {
+        "id":1,
+        "img": "innova.jpeg",
+        "img1":"inovaside.jpeg",
+        "img2":"innova_back.jpeg",
+        "img3":"innova_seat.jpeg",
+        "img4":"innova_meter.jpeg",
+        "brand" :"TOYOTA INNOVA",
+        "price":"50,000" ,
+        "description":"  2.5V Diesel Second owner 2011 model  ",
+        "distance": "241000 kms",
+        "insurance": "No replacement Insurance Live Company service record"
+
+
+    },
+    {
+        "id":2,
+        "img":"crystaside.jpeg",
+        "img1":"crysta.jpeg",
+        "img2":"crystaseat.jpeg",
+        "img3":"crystafront.jpeg",
+        "img4":"crystmeter.jpeg",
+        "brand" : "TOYOTA CRYSTA ",
+        "price":"50,000" ,  
+        "description":"  2.4V DIESEL Second owner 2018 model",
+        "distance": "---",
+        "insurance": " Insurance Live Company service record"
+        
+    },
+    {
+        "id":3,
+        "img":"chevroletside.jpeg",
+        "img1":"chevrolet.jpeg",
+        "img2":"chevroletback.jpeg",
+        "img3":"chevorfront.jpeg",
+        "img4":"chevroletseat.jpeg",
+        "brand" : "CHEVROLET TRAVERA" ,
+        "price":"50,000" ,
+        "description":" LT2.5 Diesel Single owner 2009 Just ",
+        "distance": "53000 kms",
+        "insurance": "No replacement Insurance Live Company service record"
+    },
+    {
+        "id":4,
+        "brand" :"Maruti swift " ,
+        "img":"sus4.jpeg",
+        "img1":"sus1.jpeg",
+        "img2":"suzuki.jpeg",
+        "img3":"sus3.jpeg",
+        "img4":"sus4.jpeg",
+        "price":"50,000" ,
+        "description":" LT2.5 Diesel Single owner 2009 Just ",
+        "distance": "53000 kms",
+        "insurance": "No replacement Insurance Live Company service record"
+    },
+    {
+        "id":5,
+        "img":"for2.jpeg",
+        "img1":"fortune.jpeg",
+        "img2":"for1.jpeg",
+        "img3":"for3.jpeg",
+        "img4":"for4.jpeg",
+        "brand" : "TOYOTA FORTUNER" ,
+        "price":"50,000" ,
+        "description":" LT2.5 Diesel Single owner 2009 Just ",
+        "distance": "53000 kms",
+        "insurance": "No replacement Insurance Live Company service record"  
+    },
+    {
+        "id":6,
+        "img":"vis2.jpeg",
+        "img1":"vista.jpeg",
+        "img2":"vis1.jpeg",
+        "img3":"vis3.jpeg",
+        "img4":"vis4.jpeg",
+        "brand" : "TATA VISTA" ,
+        "price":" " ,
+        "description":" LT2.5 Diesel Single owner 2009 Just ",
+        "distance": "53000 kms",
+        "insurance": "No replacement Insurance Live Company service record" 
+    }
+ 
+    ]
+     
